@@ -1,0 +1,22 @@
+.header nav{
+    background-color: black;
+    line-height: 80px;
+}
+.header nav a{
+    text-decoration: none;
+    color: honeydew;
+    margin-right: 45px;
+    padding: 4px;
+    font-size: 20px;
+}
+.header nav a:hover{
+    background-color: hotpink;
+    
+    border-radius: 10px;
+}
+.header nav input{
+    width: 400px;
+    margin-left: 60px;
+    padding: 10px;
+    border-radius: 15px;
+}
