@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shadhinbazar-bd/static/css/main.1a3c16bf.css",
+    "main.js": "/shadhinbazar-bd/static/js/main.a3931d30.js",
+    "static/js/787.12ebaea1.chunk.js": "/shadhinbazar-bd/static/js/787.12ebaea1.chunk.js",
+    "index.html": "/shadhinbazar-bd/index.html",
+    "main.1a3c16bf.css.map": "/shadhinbazar-bd/static/css/main.1a3c16bf.css.map",
+    "main.a3931d30.js.map": "/shadhinbazar-bd/static/js/main.a3931d30.js.map",
+    "787.12ebaea1.chunk.js.map": "/shadhinbazar-bd/static/js/787.12ebaea1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3c16bf.css",
+    "static/js/main.a3931d30.js"
+  ]
+}
